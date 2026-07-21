@@ -52,4 +52,4 @@ print(s)
 while x>1:
     s+=x
     x-=1
-    print(x)
+    print(s)
